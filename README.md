@@ -6,7 +6,6 @@ Este é um programa divertido de **sorteio de amigo secreto** desenvolvido em **
 
 ✅ Adicionar amigos à lista.  
 ✅ Sortear o amigo secreto garantindo que ninguém se sorteie a si mesmo.  
-✅ Armazenar o sorteio globalmente para que qualquer participante possa consultar seu amigo secreto a qualquer momento.  
 ✅ Exibir os pares sorteados de forma clara na página.
 
 ## 🚀 Como usar
